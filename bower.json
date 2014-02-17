@@ -1,0 +1,26 @@
+{
+  "name": "html5-boilerplate",
+  "version": "4.3.1",
+  "homepage": "https://github.com/elwerik/html5-boilerplate",
+  "authors": [
+    "Werik <elwerik@gmail.com>"
+  ],
+  "description": "version con precompilado en jade y stylus",
+  "main": "index.html",
+  "keywords": [
+    "html5"
+  ],
+  "license": "MIT",
+  "private": false,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "1.11.0",
+    "modernizr": "~2.7.1"
+  }
+}
